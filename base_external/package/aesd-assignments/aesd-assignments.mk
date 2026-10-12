@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = a72d31aa61a72792c5db7948d3cd8630ea72d615
+AESD_ASSIGNMENTS_VERSION = 87fe0bfb740841e9f882b248de57d07647be7628
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
